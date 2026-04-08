@@ -62,11 +62,17 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **StrideSense** | IoT-based wearable navigation & safety system for visually impaired individuals | Python, Sensors, Flask |
-| **SheShield** | Panic button & geo-fencing device for women safety | Node.js, React, ESP32, GSM |
-| **Rahnuma** | Career guidance & mentorship platform | Python, AI, ML |
+<p align="center">
+  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+    <img src="https://img.shields.io/badge/StrideSense-IoT%20Navigation-orange?style=for-the-badge&logo=python&logoColor=white" alt="StrideSense"/>
+  </a>
+  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+    <img src="https://img.shields.io/badge/SheShield-Women%20Safety-red?style=for-the-badge&logo=react&logoColor=white" alt="SheShield"/>
+  </a>
+  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+    <img src="https://img.shields.io/badge/Rahnuma-Career%20Guidance-blue?style=for-the-badge&logo=python&logoColor=white" alt="Rahnuma"/>
+  </a>
+</p>
 
 [View All Projects →](https://github.com/Coded-by-Sam?tab=repositories)
 
@@ -80,22 +86,6 @@
 - Research Papers: Applied ML on real-world datasets  
 
 [Explore AI Projects →](https://github.com/Coded-by-Sam?tab=repositories)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Coded-by-Sam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Coded-by-Sam&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-by-Sam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Coded-by-Sam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
