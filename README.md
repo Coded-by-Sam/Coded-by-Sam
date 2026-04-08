@@ -13,7 +13,7 @@
 
 <!-- Add your image below -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Muhammad Sami Ullah" width="250"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFiGV6fs3SSrg/profile-displaybackgroundimage-shrink_350_1400/B56Z05NEFrGYAY-/0/1774781235014?e=1777507200&v=beta&t=YhZ5A6E0OsPNOi-nXW3hmXTEnXj-2pU6zLbRdHH2kYM" alt="Muhammad Sami Ullah" width="250"/>
 </p>
 
 ---
