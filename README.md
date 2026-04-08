@@ -1,8 +1,10 @@
 # 💫 About Me
 
-<h1 align="center">
-  👋 Hi, I'm Muhammad Sami Ullah
-</h1>
+<p align="center">
+  <!-- Animated typing intro for your name -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&color=FFD700&center=true&vCenter=true&width=600&lines=Muhammad+Sami+Ullah" alt="Muhammad Sami Ullah Typing Animation"/>
+</p>
+
 <h3 align="center">
   AI Automation Engineer | Technical Mentor | Stanford Code in Place Certified | Data Scientist | Researcher | Tech Writer | AML Product Management Winner
 </h3>
@@ -100,12 +102,6 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-## 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/Coded-by-Sam/Coded-by-Sam/master/github-snake.svg)
 
 ---
 
