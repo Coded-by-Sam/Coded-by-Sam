@@ -17,25 +17,37 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/codeandsam/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sami%20Ullah-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@coded-by-sam"><img src="https://img.shields.io/badge/Medium-@coded--by--sam-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:mohammadsamiullah510@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/codeandsam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sami%20Ullah-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@coded-by-sam" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@coded--by--sam-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:mohammadsamiullah510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Metrics & Insights
+
 <p align="center">
   <a href="https://github.com/Coded-by-Sam">
-    <img src="https://github-readme-stats.vercel.app/api?username=Coded-by-Sam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sami's GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Coded-by-Sam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sami's GitHub Stats" width="48%" align="left" />
   </a>
   <a href="https://github.com/Coded-by-Sam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-by-Sam&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Languages" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coded-by-Sam&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Languages" width="48%" align="right" />
   </a>
 </p>
 
+<br clear="both"/>
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-by-Sam&theme=radical&hide_border=true" alt="GitHub Streak" width="97%"/>
+  <a href="https://github.com/Coded-by-Sam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-by-Sam&theme=radical&hide_border=true" alt="GitHub Streak" width="98%"/>
+  </a>
 </p>
 
 ---
@@ -47,7 +59,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a>  
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>  
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
 </p>
@@ -98,10 +110,10 @@
 
 ## 🧠 AI, Systems Engineering & Research
 
-- **Computer Vision Pipelines:** Real-time multi-stream object tracking, PPE detection, and edge-optimized YOLO deployment.  
-- **Distributed Architecture:** Massively scalable backend solutions utilizing Go, Redis caching layers, and asynchronous Kafka messaging.  
-- **RAG & Big Data Systems:** Academic and practical research constructing Hadoop 3.0 cluster setups using PySpark and Milvus Vector DB setups for processing complex unstructured data.  
-- **Data Engineering:** Designing high-throughput ETML/ETL workflows, predictive modeling for fraud risks, and statistical inference.  
+- **Computer Vision Pipelines:** Real-time multi-stream object tracking, industrial safety PPE detection, and edge-optimized YOLO deployment.  
+- **Distributed Architecture:** Massively scalable backend solutions utilizing Go microservices, Redis caching layers, and asynchronous Kafka messaging brokers.  
+- **RAG & Big Data Systems:** Advanced academic and practical research deploying Hadoop 3.0 cluster setups using PySpark and Milvus Vector DB for processing high-volume unstructured PDF data.  
+- **Data Engineering:** Designing high-throughput ETM/ETL data pipelines, predictive analytics for risk models, and statistical inference tracking.  
 
 ---
 
